@@ -4,7 +4,7 @@ This report analyzes five anti-spam filters—Akismet, CleanTalk, OOPSpam, Moder
 
 ALTCHA Spam Filter excels with high accuracy, comprehensive language support, and robust privacy measures, making it the preferred choice for users needing a fast, reliable, and GDPR-compliant anti-spam solution. This report highlights the need for anti-spam filters that ensure both high detection accuracy and adherence to data privacy standards.
 
-__Download the full report in PDF__: [/report/anti-spam-report-v1-EN.pdf](https://raw.githubusercontent.com/altcha-org/anti-spam-report/main/report/anti-spam-report-v1-EN.pdf)
+__Download the full report in PDF__: [/report/anti-spam-report-v1-EN.pdf](/report/anti-spam-report-v1-EN.pdf?raw=1)
 
 ## Methodology
 
